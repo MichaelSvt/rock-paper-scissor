@@ -21,6 +21,7 @@ Here's what the project looks like:
 
 ![Paper](https://img.freepik.com/free-psd/paper-isolated-transparent-background_191095-32023.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1722038400&semt=sph)
 
+![Graph](https://github.com/MichaelSvt/rock-paper-scissor/blob/main/Screenshot%20from%202024-07-21%2019-22-43.png?raw=true)
 
 ## Contributing
 Guidelines for contributing to your project.
